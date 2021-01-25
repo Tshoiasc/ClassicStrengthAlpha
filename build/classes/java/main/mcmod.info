@@ -1,0 +1,18 @@
+[
+    {
+        "modid": "classicstrength-alpha",
+        "name": "ClassicStrength Alpha",
+        "version": "1.0-SNAPSHOT",
+        "description": "classicStrength",
+        "url": "http://www.zzpz.net/",
+        "authorList": [
+            "Tshoiasc"
+        ],
+        "dependencies": [
+            "spongeapi@7.1.0"
+        ],
+        "requiredMods": [
+            "spongeapi@7.1.0"
+        ]
+    }
+]
